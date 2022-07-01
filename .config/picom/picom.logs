@@ -1,0 +1,52 @@
+[ 10/31/2021 03:00:29.870 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 10/31/2021 03:03:11.802 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 10/31/2021 03:04:04.582 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 10/31/2021 03:04:22.706 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 10/31/2021 12:38:39.967 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 10/31/2021 13:17:10.768 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 10/31/2021 14:45:36.646 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 10/31/2021 15:37:00.233 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 10/31/2021 16:35:31.565 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 10/25/2021 14:36:41.177 glx_init ERROR ] Failed to enable vsync.
+[ 10/25/2021 14:36:38.922 glx_init ERROR ] Failed to enable vsync.
+[ 10/25/2021 14:36:34.042 glx_init ERROR ] Failed to enable vsync.
+[ 10/25/2021 14:39:40.197 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 10/25/2021 14:36:40.727 glx_init ERROR ] Failed to enable vsync.
+[ 10/25/2021 14:36:46.419 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/01/2021 21:34:55.586 glx_init ERROR ] Failed to enable vsync.
+[ 11/01/2021 21:34:56.214 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/01/2021 21:35:07.299 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/01/2021 21:56:19.576 glx_init ERROR ] Failed to enable vsync.
+[ 11/01/2021 21:56:27.986 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/02/2021 08:41:24.217 glx_init ERROR ] Failed to enable vsync.
+[ 11/02/2021 08:41:26.958 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/02/2021 12:24:12.583 glx_init ERROR ] Failed to enable vsync.
+[ 11/02/2021 12:24:16.311 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/02/2021 14:52:58.493 glx_init ERROR ] Failed to enable vsync.
+[ 11/02/2021 14:53:23.842 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/02/2021 15:16:03.286 glx_init ERROR ] Failed to enable vsync.
+[ 11/02/2021 15:16:10.239 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 09:00:17.760 glx_init ERROR ] Failed to enable vsync.
+[ 11/03/2021 09:00:21.074 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 21:07:21.145 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 21:13:17.116 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 21:18:25.366 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 21:25:16.111 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 21:40:23.085 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 21:49:21.736 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 22:00:59.590 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 22:06:08.787 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 22:45:42.756 glx_init ERROR ] Failed to enable vsync.
+[ 11/03/2021 22:45:55.342 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/03/2021 22:50:36.385 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/03/2021 22:50:44.769 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/03/2021 22:50:55.218 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/03/2021 22:51:05.748 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/04/2021 08:58:27.182 glx_init ERROR ] Failed to enable vsync.
+[ 11/04/2021 08:58:35.100 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/04/2021 22:22:05.409 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/04/2021 22:39:40.788 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/04/2021 23:23:37.454 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/04/2021 23:56:06.473 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
+[ 11/05/2021 10:08:53.530 glx_init ERROR ] Failed to enable vsync.
+[ 11/05/2021 10:08:57.793 handle_queued_x_events FATAL ERROR ] X11 server connection broke (error 1)
